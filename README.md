@@ -14,3 +14,4 @@ Github
 
 ### Credits
 https://githowto.com/changes_not_files
+https://coursework.vschool.io/create-a-gitignore/
