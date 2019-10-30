@@ -2,7 +2,7 @@
 31-10-2019
 
 ### Project Title
-Github Project: Git Commands Documentation Template
+Github Project
 
 ### Description
 This is the three project for Udacity's data science Nanodegree Program where use local git
