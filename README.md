@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+30-10-2019
 
 ### Project Title
-Replace the Project Title
+Github Project: Git Commands Documentation Template
 
 ### Description
-Describe what your project is about and what it does
+This is the three project for Udacity's data science Nanodegree Program where use local git
+repostory and github repostory
 
 ### Files used
-Include the files used
+git
+Github
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://githowto.com/changes_not_files
